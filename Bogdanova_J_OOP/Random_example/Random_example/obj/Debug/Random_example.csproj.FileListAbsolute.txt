@@ -1,0 +1,11 @@
+C:\Users\Leena\Bogdanova_J_OOP\Random_example\Random_example\bin\Debug\Random_example.exe.config
+C:\Users\Leena\Bogdanova_J_OOP\Random_example\Random_example\bin\Debug\Random_example.exe
+C:\Users\Leena\Bogdanova_J_OOP\Random_example\Random_example\bin\Debug\Random_example.pdb
+C:\Users\Leena\Bogdanova_J_OOP\Random_example\Random_example\obj\Debug\Random_example.csproj.AssemblyReference.cache
+C:\Users\Leena\Bogdanova_J_OOP\Random_example\Random_example\obj\Debug\Random_example.csproj.SuggestedBindingRedirects.cache
+C:\Users\Leena\Bogdanova_J_OOP\Random_example\Random_example\obj\Debug\Random_example.Form1.resources
+C:\Users\Leena\Bogdanova_J_OOP\Random_example\Random_example\obj\Debug\Random_example.Properties.Resources.resources
+C:\Users\Leena\Bogdanova_J_OOP\Random_example\Random_example\obj\Debug\Random_example.csproj.GenerateResource.cache
+C:\Users\Leena\Bogdanova_J_OOP\Random_example\Random_example\obj\Debug\Random_example.csproj.CoreCompileInputs.cache
+C:\Users\Leena\Bogdanova_J_OOP\Random_example\Random_example\obj\Debug\Random_example.exe
+C:\Users\Leena\Bogdanova_J_OOP\Random_example\Random_example\obj\Debug\Random_example.pdb
